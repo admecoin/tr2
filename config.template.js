@@ -4,7 +4,7 @@
  */
 const config = {
   'api': {
-    'host': 'https://explorer.methuselahcoin.io',
+    'host': 'http://explorer.timeismoney.online',
     'port': '3000',
     'prefix': '/api',
     'timeout': '5s'
