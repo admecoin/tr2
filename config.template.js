@@ -4,7 +4,7 @@
  */
 const config = {
   'api': {
-    'host': 'http://explorer.timeismoney.online',
+    'host': 'http://37.143.9.111',
     'port': '3000',
     'prefix': '/api',
     'timeout': '5s'
